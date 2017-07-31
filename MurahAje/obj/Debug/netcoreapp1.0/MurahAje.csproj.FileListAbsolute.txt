@@ -1,0 +1,8 @@
+/Users/mifmasterz/Documents/experiment/MurahAje/bin/Debug/netcoreapp1.0/MurahAje.deps.json
+/Users/mifmasterz/Documents/experiment/MurahAje/bin/Debug/netcoreapp1.0/MurahAje.runtimeconfig.json
+/Users/mifmasterz/Documents/experiment/MurahAje/bin/Debug/netcoreapp1.0/MurahAje.runtimeconfig.dev.json
+/Users/mifmasterz/Documents/experiment/MurahAje/bin/Debug/netcoreapp1.0/MurahAje.dll
+/Users/mifmasterz/Documents/experiment/MurahAje/bin/Debug/netcoreapp1.0/MurahAje.pdb
+/Users/mifmasterz/Documents/experiment/MurahAje/obj/Debug/netcoreapp1.0/MurahAje.AssemblyInfo.cs
+/Users/mifmasterz/Documents/experiment/MurahAje/obj/Debug/netcoreapp1.0/MurahAje.dll
+/Users/mifmasterz/Documents/experiment/MurahAje/obj/Debug/netcoreapp1.0/MurahAje.pdb
